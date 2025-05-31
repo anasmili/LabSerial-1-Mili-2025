@@ -1,0 +1,11 @@
+C:\Users\anasm\source\repos\Receive\Receive\bin\Debug\Receive.exe.config
+C:\Users\anasm\source\repos\Receive\Receive\bin\Debug\Receive.exe
+C:\Users\anasm\source\repos\Receive\Receive\bin\Debug\Receive.pdb
+C:\Users\anasm\source\repos\Receive\Receive\obj\Debug\Receive.csproj.AssemblyReference.cache
+C:\Users\anasm\source\repos\Receive\Receive\obj\Debug\Receive.Form1.resources
+C:\Users\anasm\source\repos\Receive\Receive\obj\Debug\Receive.Properties.Resources.resources
+C:\Users\anasm\source\repos\Receive\Receive\obj\Debug\Receive.csproj.GenerateResource.cache
+C:\Users\anasm\source\repos\Receive\Receive\obj\Debug\Receive.csproj.CoreCompileInputs.cache
+C:\Users\anasm\source\repos\Receive\Receive\obj\Debug\Receive.exe
+C:\Users\anasm\source\repos\Receive\Receive\obj\Debug\Receive.pdb
+C:\Users\anasm\source\repos\Receive\Receive\obj\Debug\Receive.exe.config

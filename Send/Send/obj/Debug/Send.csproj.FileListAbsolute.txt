@@ -1,0 +1,11 @@
+C:\Users\anasm\source\repos\Send\Send\bin\Debug\Send.exe.config
+C:\Users\anasm\source\repos\Send\Send\bin\Debug\Send.exe
+C:\Users\anasm\source\repos\Send\Send\bin\Debug\Send.pdb
+C:\Users\anasm\source\repos\Send\Send\obj\Debug\Send.csproj.AssemblyReference.cache
+C:\Users\anasm\source\repos\Send\Send\obj\Debug\Send.Form1.resources
+C:\Users\anasm\source\repos\Send\Send\obj\Debug\Send.Properties.Resources.resources
+C:\Users\anasm\source\repos\Send\Send\obj\Debug\Send.csproj.GenerateResource.cache
+C:\Users\anasm\source\repos\Send\Send\obj\Debug\Send.csproj.CoreCompileInputs.cache
+C:\Users\anasm\source\repos\Send\Send\obj\Debug\Send.exe
+C:\Users\anasm\source\repos\Send\Send\obj\Debug\Send.pdb
+C:\Users\anasm\source\repos\Send\Send\obj\Debug\Send.exe.config
